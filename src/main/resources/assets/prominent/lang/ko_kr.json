@@ -1,0 +1,336 @@
+{
+    "prominent.cinderstoneartifact": "잿돌 유물",
+    "prominent.cinderstonecore": "잿돌 핵",
+    "prominent.arcaneinfusion": "비전 주입",
+    "prominent.arcaneinfusion2": "이 지팡이는 비전의 순수한 힘으로 진화했습니다. 이제 알 나'이르, 밝은 별로 알려져 있습니다.",
+
+    "prominent.fireinfusion": "화염 주입",
+    "prominent.frostinfusion": "서리 주입",
+    "prominent.holyinfusion": "신성 주입",
+    "prominent.astralinfusion": "천체 주입",
+
+    "prominent.fireinfusion2": "이 지팡이는 화염의 순수한 힘으로 진화했습니다. 이제 아다실, 불타는 나무로 알려져 있습니다.",
+    "prominent.frostinfusion2": "이 지팡이는 차가운 서리의 순수한 힘으로 진화했습니다. 이제 카'젤, 얼어붙은 운명으로 알려져 있습니다.",
+    "prominent.holyinfusion2": "이 지팡이는 신성의 순수한 힘으로 진화했습니다. 이제 아드'아넬, 아인의 비밀로 알려져 있습니다.",
+    "prominent.astralinfusion2": "이 지팡이는 순수한 별의 힘으로 진화했습니다. 이제 싱귤래리티, 별의 재탄생으로 알려져 있습니다",
+
+    "item.prominent.ekavar_staff": "에카바르, 위대한 작열의 지팡이",
+    "item.prominent.ekavar_staff.phase.1": "알 나'이르, 밝은 별",
+    "item.prominent.ekavar_staff.phase.2": "아다실, 불타는 나무",
+    "item.prominent.ekavar_staff.phase.3": "카'젤, 얼어붙은 운명",
+    "item.prominent.ekavar_staff.phase.4": "아드'아넬, 아인의 비밀",
+    "item.prominent.ekavar_staff.phase.5": "싱귤래리티, 별의 재탄생",
+    "attribute.prominent.titan_damage": "타이탄의 손아귀 데미지",
+    "attribute.prominent.ekavar_phase": "에카바르 단계",
+
+    "prominent.spellbook": "장착된 주문서에서 비전, 화염, 서리, 신성 능력을 시전합니다.",
+
+    "prominent.ekabararcane": "§9+30% §f陋 §9비전 주문력",
+    "prominent.ekabarfire": "§9+30% §f縷 §9화염 주문력",
+    "prominent.ekabarfrost": "§9+30% §f勒 §9서리 주문력",
+    "prominent.ekabarholy": "§9+30% §f\uF957 §9치유력",
+    "prominent.ekabarastral": "§9+20% §f稜 §9별의 힘",
+
+    "prominent.ekabarpassive1": "이 지팡이는 힘이 주입되면 더 강력한 무기로 진화할 수 있는 능력을 가지고 있습니다.",
+    "prominent.ekabarpassive2": " §8업그레이드 트리를 통해 진화함.",
+  
+  "prominent.gumastalk": "정말... 나를 죽일 수 있다고 생각해..?",
+    "prominent.gumastalk2": "너는 내 새로운 왕께 매우 유용할 거다.",
+    "prominent.gumastalk3": "그럴려면 너는 먼저 죽어야 해...",
+    "prominent.gumastalk4": "너는 내가 죽었다고 생각했지...",
+    "prominent.gumastalk5": "황색 왕이 나를 더 강하게 다시 태어나게 했다.",
+    "prominent.gumastalk6": "이제는 네 차례다. 너도 다시 태어나라!",
+
+    "biome.prominent.city_of_vaaz": "바즈의 도시",
+    "biome.prominent.outer_depths": "외부 심연",
+
+    "prominent.mythibosses" :"신화 보스",
+    "prominent.gumasnotyet": "신호기가 아무도 부르지 않습니다. 아직 이 아이템을 사용할 수 없습니다.",
+    "prominent.gumasnotyet2": "신호기는 오버월드에서만 작동합니다.",
+
+    "prominent.gumascheck": "팁: 체크포인트를 위해 차원석을 활성화하세요.",
+
+    "item.prominent.health_flask.tooltip": "최대 체력의 35%를 회복하고 8초 동안 재생 V 효과를 부여합니다.",
+    "item.prominent.health_flask.cooldown": " 10초 재사용 대기시간",
+
+    "advancements.ashedar.title": "우주의 힘",
+    "advancements.ashedar.desc": "아쉬'에다르, 우주의 쌍둥이를 창조하세요.",
+    "advancements.azhar.title": "배신자",
+    "advancements.azhar.desc": "영혼의 불꽃의 유물, 아'자르를 창조하세요.",
+
+    "advancements.beacon_of_hope.title": "희망의 부름",
+    "advancements.beacon_of_hope.desc": "스'켈락에게 도움을 요청하여 바즈로 여행을 떠나세요.",
+    "advancements.end_of_voids_invasion.title": "공허의 침공의 영웅",
+    "advancements.end_of_voids_invasion.desc": "공허의 침공의 모든 챕터를 완료하세요.",
+
+    "advancements.foatf.title": "저건 유성인가? 아니야! 주먹이야!",
+    "advancements.foatf.desc": "영혼의 불꽃의 유물, 천 개의 주먹의 분노를 창조하세요.",
+    "advancements.frostmourne.title": "당신이 태어난 날...",
+    "advancements.frostmourne.desc": "룬의 유물, 서리의 칼날, 몰락한 왕의 검을 창조하세요.",
+
+    "advancements.fyralath.title": "꿈을 찢는 자",
+    "advancements.fyralath.desc": "영혼의 불꽃의 유물, 피'랄리스를 창조하세요.",
+    "advancements.molten_core.title": "공허의 침공: 챕터 I",
+    "advancements.molten_core.desc": "공허의 침공 챕터 I 을 완료하고 스'켈락에게서 용암 핵을 획득하세요.",
+
+    "advancements.supernova.title": "별의 죽음",
+    "advancements.supernova.desc": "우주의 유물, 초신성, 별의 죽음을 창조하세요.",
+    "advancements.unlock_mythic_challenges.title": "공허의 침공: 챕터 II",
+    "advancements.unlock_mythic_challenges.desc": "공허의 침공 챕터 II 를 완료하고 신화 도전을 잠금 해제하세요.",
+
+    "advancements.void_mythic_1.title": "공허의 침공: 신화의 초보자",
+    "advancements.void_mythic_1.desc": "죽지 않고 신화 1 보스를 성공적으로 처치하세요.",
+    "advancements.void_mythic_5.title": "공허의 침공: 신화의 수습생",
+    "advancements.void_mythic_5.desc": "죽지 않고 신화 5 보스를 성공적으로 처치하십시오.",
+
+    "advancements.void_mythic_10.title": "공허의 침공: 신화의 숙련자",
+    "advancements.void_mythic_10.desc": "죽지 않고 신화 10 보스를 성공적으로 처치하세요.",
+    "advancements.void_mythic_15.title": "공허의 침공: 신화의 영웅",
+    "advancements.void_mythic_15.desc": "죽지 않고 신화 15 보스를 성공적으로 처치하십시오.",
+
+    "advancements.void_mythic_20.title": "공허의 침공: 신화의 전설",
+    "advancements.void_mythic_20.desc": "죽지 않고 신화 20 보스를 성공적으로 처치하세요.",
+    "advancements.void_mythic_30.title": "공허의 침공: 신화의 지배자",
+    "advancements.void_mythic_30.desc": "죽지 않고 신화 30 보스를 성공적으로 처치하십시오.",
+
+    "itemGroup.prominent.tab": "Prominence 커스텀 콘텐츠",
+    "itemGroup.prominent.mythic": "Prominence 신화 보스들",
+    "item.prominent.icon": "두드러짐",
+
+    "item.prominent.music_disc_coniferus_forest": "음반",
+    "item.prominent.music_disc_coniferus_forest.desc": "Orangery - Coniferus Forest (메인 메뉴 테마)",
+    "item.prominent.music_disc_festivities": "음반",
+    "item.prominent.music_disc_festivities.desc": "Sideralis Music - Prominent Festivities (오리지널 사운드트랙)",
+    
+    "item.prominent.knowledge_scroll": "지식의 두루마리",
+    "item.prominent.molten_core": "용암 핵",
+    "item.prominent.cinderstone_trophy": "잿돌 트로피",
+    "item.prominent.cinderstonetrophydesc1": "스'켈락을 도와 영역의 위협을 물리친 대가로 받은 보상으로, 유용한 유물을 제작하는 데 사용됩니다.",
+    "item.prominent.cinderstonetrophydesc2": "- 캠페인 보스 퀘스트의 보상으로 획득 가능합니다.",
+    "item.prominent.cinderstonetrophydesc3": "- 또한 '포장된 잔재'와 '상급 신화의 정수'를 사용하여 제작할 수 있습니다.",
+
+    "item.prominent.molten_remnant": "용암의 잔재",
+    "item.prominent.infused_molten_remnant": "주입된 용암의 잔재",
+
+    "item.prominent.thunderwrath": "천둥의 분노, 용암 폭풍",
+    "item.prominent.supernova": "초신성, 별의 죽음",
+    "item.prominent.fury_of_a_thousand_fists": "천 개의 주먹의 분노",
+    "item.prominent.frostmourne": "서리의 칼날, 몰락한 왕의 검",
+    "item.prominent.azhar": "아'자르, 저주받은 낫",
+    "item.prominent.fyralath": "피'랄리스, 피어오르는 고통",
+
+    "item.prominent.ashedar": "아쉬'에다르, 우주의 쌍둥이",
+    "item.prominent.ash": "아쉬, 태양의 잔재",
+    "item.prominent.edar": "에다르, 그림자",
+    "item.prominent.ashedar_essence": "아쉬'에다르, 우주의 쌍둥이의 정수",
+
+    "spell.prominent.supernova.name": "천체 폭발",
+    "spell.prominent.supernova.description": "초신성의 모든 에너지를 한 점으로 집중시켜, 인근 적들에게 아케인 피해를 주는 치명적인 폭발을 일으킵니다.",
+    "spell.prominent.rage.name": "분노",
+    "spell.prominent.rage.description": "내면의 분노를 방출하여, 짧은 시간 동안 공격 속도를 500% 증가시킵니다. 천 개의 분노의 손과 분노의 주먹이 필요합니다.",
+
+    "item.prominent.demon_essence": "악마의 정수",
+    "item.prominent.demonessencedescription": "증오와 악마적 존재로 가득 차 있습니다.",
+    "item.prominent.glory_essence": "영광의 정수",
+    "item.prominent.gloryessencedescription": "집중된 원초적 힘으로 가득 찬 빛나는 빛.",
+    "item.prominent.wrath_essence": "분노의 정수",
+    "item.prominent.wrathessencedescription": "격노한 영혼들로 가득 차 있습니다.",
+    
+    "item.prominent.cosmic_essence": "우주의 정수",
+    "item.prominent.encased_remnant": "포장된 잔재",
+    "item.prominent.encasedremnantdescription": "유물 무기를 재단련하고 수리하는 데 사용할 수 있습니다.",
+
+    "item.prominent.empty_vessel": "잿돌 그릇",
+    "item.prominent.void_hourglass": "공허의 모래시계",
+    "item.prominent.lesser_mythical_essence": "하급 신화의 정수",
+    "prominent.10mythicdesc": "\uF935 신화 10+ 보스의 전리품",
+    "item.prominent.greater_mythical_essence": "상급 신화의 정수",
+    "prominent.20mythicdesc": "\uF935 신화 20+ 보스의 전리품",
+    "effect.prominent.mythic": "신화",
+
+    "effect.prominent.obliterated_agony": "소멸된 고통",
+    "effect.prominent.remorseless_winter": "무자비한 겨울",
+    "effect.prominent.agonizing_breath": "고통의 숨결",
+    "effect.prominent.broken_soul": "부서진 영혼",
+    "effect.prominent.soul_absorption": "영혼 흡수",
+
+    "effect.prominent.solar_eclipse": "일식",
+    "effect.prominent.lunar_eclipse": "월식",
+    "effect.prominent.darkening": "어두워짐",
+    "effect.prominent.sunstrike": "태양 강타",
+    "effect.prominent.moonlight_nova": "달빛 폭발",
+    "effect.prominent.prominence": "두드러진 폭발",
+
+    "effect.prominent.faceless_gift": "무형의 선물",
+    "effect.prominent.combat": "전투 중",
+
+    "attribute.prominent.mythic_level": "신화 레벨",
+    "attribute.prominent.artifact_damage": "아티팩트 데미지",
+
+    "item.prominent.beacon_of_hope": "희망의 신호기",
+    "item.prominent.broken_beacon_of_hope": "부서진 희망의 신호기",
+
+    "block.prominent.volcanic_cinderstone": "화산 잿돌",
+    "item.prominent.volcanic_cinderstone": "화산 잿돌",
+
+    "effect.prominent.breath_of_azhar": "아자르의 숨결",
+    "effect.prominent.initial_eclipse": "최초의 일식",
+    "effect.prominent.solar_prominence": "태양의 돌출",
+    "effect.prominent.beacon_of_hope": "희망의 신호",
+
+    "attribute.name.prominent.mythic_level": "신화 레벨",
+    "attribute.name.prominent.artifact_damage": "아티팩트 데미지",
+
+
+    "attribute.name.reach-entity-attributes.attack_range": "공격 범위",
+    "attribute.name.reach-entity-attributes.reach": "거리",
+
+
+    "prominent.whisper": "낯익은 목소리가 속삭입니다.",
+    "prominent.moltencoredesc": "\uA996 §7유물 무기를 업그레이드하려면 잔재를 사용하세요.",
+    "prominent.moltencoredesc2": "유물 힘",
+    "prominent.moltencoredesc3": "§6 +",
+    "prominent.moltencoredesc4": "§6유물 힘",
+
+    "prominent.alreadymoltencore": "당신의 유물은 이미 완전히 업그레이드되었습니다.",
+    "prominent.upgmoltencore": "잔재의 힘이 해방되어 유물 무기에 부여되었습니다.",
+    "prominent.upgmoltencore2": "유물 힘이 획득되었습니다.",
+    "prominent.beaconquest": "스'켈락에게 도움을 요청하여 바즈의 도시로 이동하세요.",
+    "prominent.beaconquest2": " 하스터리안 시대 챕터 IV 퀘스트 보상으로 제공됩니다.",
+    "prominent.moltendesc": "§c바즈§7의 심연에서 모든 것의 창조자인 §c스'켈락§7에 의해 만들어졌습니다.",
+    "prominent.moltendesc2": "§7영역의 위협을 제거하여 자신이 자격이 있음을 입증한 자에게 보상으로 주어졌습니다.",
+    "prominent.moltendesc3": "§e공허의 침략 챕터 II 퀘스트를 완료하여 획득할수있습니다.",
+    "prominent.moltendesc4": "§8이 아이템은 개인 소울바운드 아이템입니다! 공유하거나 파괴하려고 하지 마세요. 그러면 진행이 망가지게됩니다.",
+
+    "prominent.knowlegemessage": "당신의 재능 트리가 초기화되었습니다.",
+    "prominent.knowledesc": "재능 트리를 초기화하고 모든 포인트를 반환합니다.",
+
+    "prominent.mythicaffix": "부가 효과",
+    "prominent.mythicmythic": "신화 ",
+    "prominent.mythicfaceless": "얼굴 없는 선물                    ",
+    "prominent.mythicdesc1": " 변종이 30초마다 소환되어 도움을 주고,",
+    "prominent.mythicdesc2": " 신화 보스의 능력치를 상속받습니다.",
+
+
+    "prominent.ashedarsunfire": "태양의 불꽃",
+
+    "prominent.ashedarsunfiredesc1": "태양 강타",
+    "prominent.ashedarsunfiredesc2": "순수한 태양 에너지의 충격파를 발생시켜 전방의 원뿔 모양으로 모든 적에게 화염 피해를 줍니다.",
+    "prominent.ashedarsunfiredesc3": " 일식 상태일 때 피해량이 두 배가 됩니다.",
+    "prominent.ashedarsunfiredesc4": " 월식 상태일 때 피해를 입은 만큼 체력이 회복됩니다",
+
+    "prominent.ashedarsunfire2": "홍염",
+    "prominent.ashedarsunfire2desc1": "재의 진정한 힘을 발휘하여, 넓은 지역에 화염 피해를 폭발시킵니다.",
+    "prominent.ashedarsunfire2desc2": " 일식 상태일 때, 대상을 불태우고 눈이 멀게 합니다.",
+    "prominent.ashedarsunfire2desc3": " 월식 상태일 때, 기절한 적에게 두 배의 피해를 줍니다.",
+
+    "prominent.sunfire3": "일식",
+    "prominent.sunfire3desc": "아쉬의 피해를 10% 증가시킵니다. 10초 동안 적용됩니다.",
+
+    "prominent.ashedararcane": "달의 비전",
+
+    "prominent.lunar1": "어둠",
+  "prominent.lunar1desc": "에다르의 내면의 비전력을 소용돌이쳐 주변의 적들에게 비전 피해를 입힙니다.",
+  "prominent.lunar1passive1": " 현재 월식의 지속시간을 2초 연장합니다.",
+  "prominent.lunar1passive2": " 월식에 영향을 받는 동안 피해량만큼 회복합니다.",
+  
+  "prominent.lunar2": "달빛 신성",
+  "prominent.lunar2desc": "순수한 달빛의 강력한 폭발을 방출하여 모든 적에게 피해를 주고 기절시킵니다.",
+  "prominent.lunar2passive1": " 일식에 영향을 받는 동안 피해를 두 배로 증가시킵니다.",
+  "prominent.lunar2passive2": " 월식에 영향을 받는 동안 기절 지속시간이 증가합니다.",
+  
+  "prominent.lunar3": "월식",
+  "prominent.lunar3desc": "공격 및 이동 속도를 10% 증가시킵니다. 10초 동안 적용됩니다.",
+
+  "prominent.lunarsolar": " 일식과 월식은 쿨타임을 공유합니다.",
+
+  "prominent.astralattunement": "천체 조화",
+  "prominent.astralattunement2": "쌍검을 사용할 때, 근접 공격이 두 배의 피해를 줍니다.",
+  "prominent.astralattunement3": " 사용 가능한 주문은 주 손에 어떤 검이 있는지에 따라 달라집니다.",
+
+  "prominent.arcanesunfire": "태양의 불꽃 & 달의 비전 유물",
+  "prominent.arcanesunfireloot": "아쉬'에다르의 정수가 주 손에 있어야 하며, 보조 손은 비어 있어야 합니다.",
+  "prominent.arcanesunfireloot2": "아쉬'에다르의 정수를 무기 형태로 변환합니다. 비어 있는 보조 손이 필요합니다.",
+
+  "prominent.soulabsorption": "영혼 흡수",
+  "prominent.soulabsorption2": "모든 부서진 영혼을 흡수하여 소비하고 최대 체력의 10%를 회복합니다.",
+  "prominent.soulabsorption3": "부서진 영혼 스택당 회복합니다.",
+
+  "prominent.breathofazhar": "아'자르의 숨결",
+  "prominent.breathofazhar2": "아'자르의 숨결을 방출하여",
+  "prominent.breathofazhar3": "넓은 원뿔 형태로 높은 영혼불 피해를 줍니다.",
+  "prominent.breathofazhar4": "부서진 영혼 스택이 없으면 숨결이 활성화된 동안 지속적인 피해를 받습니다.",
+
+  "prominent.brokensouls": "부서진 영혼",
+  "prominent.brokensouls2": "부서진 영혼은 5초 동안 지속되며, 각 스택은 지속 시간을 초기화하지 않습니다.",
+  "prominent.brokensouls3": "부서진 영혼이 사라지면 최대 체력의 10%가 회복됩니다.",
+  "prominent.brokensouls4": " §8공격 시 부서진 영혼이 생성되지만, 최대 체력의 10%를 소모합니다.",
+  "prominent.brokensouls5": " §8적을 처치하면 부서진 영혼이 생성되며, 피해를 받지 않습니다.",
+
+  "prominent.frostblade1": "고통의 저주",
+  "prominent.frostblade2": "얼음의 검을 휘두르는 자는 다음 리치 왕이 될 것입니다.",
+  "prominent.frostblade3": "죽음의 기사 기술이 더 높은 피해를 줍니다.",
+  "prominent.frostblade4": "장착한 스킬북에서 죽음의 기사의 기술을 시전합니다.",
+
+  "prominent.fyralath_greater_scorch1": "대화염",
+  "prominent.fyralath_greater_scorch2": "대상을 불태우고 자신에게 4초 동안 저항을 제공합니다.",
+  "prominent.fyralath_greater_scorch3": "공격 시 지속 시간을 연장될 확률이 있습니다.",
+  
+  "prominent.fyralath_greater_laceration1": "거대한 상처",
+  "prominent.fyralath_greater_laceration2": "피'랄리스를 빠르게 휘두르며 공기를 데우고,",
+  "prominent.fyralath_greater_laceration3": "불꽃을 쏘는 날카로운 투사체를 적에게 던집니다.",
+  
+  "prominent.fyralath_greater_meteor1": "대유성",
+  "prominent.fyralath_greater_meteor2": "대상 위로 떨어지는 유성의 비를 불러내어",
+  "prominent.fyralath_greater_meteor3": "근처의 모든 적에게 화염 피해를 줍니다.",
+  
+  "prominent.fyralath_fiery_core1": "타오르는 핵",
+  "prominent.fyralath_fiery_core2": "피'랄리스는 빠른 시전 시간,",
+  "prominent.fyralath_fiery_core3": "더 높은 피해 및 향상된 화염 주문을 소환할 수 있습니다.",
+
+  "prominent.astral_astral_burst1": "천체 폭발",
+  "prominent.astral_astral_burst2": "슈퍼노바의 모든 에너지를 하나의 지점에 모아,",
+  "prominent.astral_astral_burst3": "주변의 모든 적에게 피해를 주는 치명적인 폭발을 발생시킵니다.",
+
+  "prominent.astral_arcane_projection1": "비전 발사",
+  "prominent.astral_arcane_projection2": "단일 목표에 집중하여 강력한",
+  "prominent.astral_arcane_projection3": "물리 피해 와 비전 피해를 주는 소닉 공격으로 타격합니다.",
+
+  "prominent.astral_frost_projection1": "서리 발사",
+  "prominent.astral_frost_projection2": "가장 가까운 목표에게 얼음 비를 채널링합니다. 목표가 죽으면,",
+  "prominent.astral_frost_projection3": "채널링은 다음 가장 가까운 목표로 계속 진행됩니다.",
+
+  "prominent.astral_fire_projection1": "화염 발사",
+  "prominent.astral_fire_projection2": "가까운 적의 뒤로 순간이동하고 불타는 타격으로 타격하여,",
+  "prominent.astral_fire_projection3": "물리 피해 와 화염 피해를 줍니다. 채널링 가능합니다.",
+
+  "prominent.astral_astral_echoing1": "천체의 메아리",
+  "prominent.astral_astral_echoing2": "공격이 원소와 공명하여 추가적인 원소 피해를 줍니다.",
+
+  "prominent.toatf_enraging1": "격노",
+  "prominent.toatf_enraging2": "자신을 격노시키고, 2초 동안 주먹에 500%의 공격 속도를 부여합니다.",
+  "prominent.toatf_enraging3": "격노 상태에서는, 공격이 추가적인 영혼불 피해를 줄 수 있습니다.",
+  "prominent.toatf_enraging4": "보조 손에 분노의 주먹이 필요합니다.",
+
+  "prominent.serkonidheritage1": "세르코니드 유산",
+  "prominent.serkonidheritage2": "공격은 25% 확률로 다시 타격하여 ",
+  "prominent.serkonidheritage3": "§e번개 피해§f를 추가로 입힙니다.",
+  "prominent.serkonidheritage4": " 전사의 헌신 운명인 경우 확률이 35%로 증가합니다.",
+
+
+    "prominent.itemstorm": "용암폭풍 유물",
+    "prominent.itemcosmic": "천체 유물",
+    "prominent.itemrunic": "룬 유물",
+    "prominent.itemartifact": " 유물",
+    "prominent.itemsoulfire": "영혼불 유물",
+    "prominent.itemsoulbound": " 유물의 영혼이 이제 당신에게 결속되었습니다.",
+    "prominent.itemsoulbound2": " 유물의 영혼이 이제 당신에게 결속되었습니다.",
+    "prominent.overitemsoulbound": " 당신의 몸은 여러 유물의 힘에 압도당하고 있습니다.",
+    "prominent.otheritemsoulbound": " 다른 사람에게 영혼이 결속되어 있습니다.",
+
+
+    "prominent.whisperface": "얼굴 없는 자가 속삭입니다: 너는 실패했다. 공허를 받아들여라.",
+    "prominent.mythicchallenge": "도전을 성공적으로 완료했습니다!",
+
+    "prominent.configreload": "Prominent 설정을 다시 불러왔습니다."
+}
