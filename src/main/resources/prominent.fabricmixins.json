@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "elocindev.prominent.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "RageMixin",
+    "FuryFistMixin",
+    "CustomItemNameMixin",
+    "ArtifactTooltipFix",
+    "ItemEntityExplodableMixin",
+    "PlayerEntityMixin",
+    "ServerPlayerEntityMixin",
+    "LivingEntityMixin",
+    "ArtifactDamageModifiersMixin",
+    "attribute.AttributeApplyMixin",
+    "items.HealthFlaskItemMixin"
+  ],
+  "client": [
+    "client.UpdateArtifactClientMixin"
+  ],
+    "injectors": {
+    "defaultRequire": 1
+  }
+}

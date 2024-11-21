@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "prominent",
+  "version": "3.0.0",
+
+  "name": "Prominent",
+  "description": "Custom Content for the Prominence Modpack",
+  "authors": [
+    "ElocinDev"
+  ],
+  "contact": {
+    "homepage": "https://curseforge.com/members/elocindev/projects",
+    "sources": "https://github.com/nvb-uy/prominent"
+  },
+  "icon":"icon.png",
+  "license": "AGNYA License",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "elocindev.prominent.ProminentLoader"
+    ],
+    "server": [
+      "elocindev.prominent.ProminentServerLoader"
+    ],
+    "client": [
+      "elocindev.prominent.ProminentClient"
+    ]
+  },
+  "mixins": [
+    "prominent.fabricmixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "java": ">=17",
+    "luna": "*"
+  }
+}
