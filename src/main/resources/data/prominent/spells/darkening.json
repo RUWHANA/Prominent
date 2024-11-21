@@ -1,0 +1,105 @@
+{
+  "school": "ARCANE",
+  "range": 6,
+  "learn": {
+    "tier": 1
+  },
+  "cast": {
+    "animation": "spell_engine:one_handed_projectile_charge",
+    "duration": 0
+  },
+  "release": {
+    "target": {
+      "type": "AREA",
+      "area": {
+        "angle_degrees": 360,
+        "vertical_range_multiplier": 1
+      }
+    },
+    "particles": [
+      {
+        "particle_id": "spell_engine:arcane_hit",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 20.0,
+        "min_speed": 0.2,
+        "max_speed": 0.6
+      },
+      {
+        "particle_id": "firework",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 30.0,
+        "min_speed": 0.2,
+        "max_speed": 0.4
+      }
+    ],
+    "sound": {
+      "id": "simplyswords:elemental_sword_holy_attack_01"
+    },
+    "animation": "spellbladenext:flourish"
+  },
+  "impact": [
+    {
+      "school": "PHYSICAL_MELEE",
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 1,
+          "spell_power_coefficient": 1.0
+        }
+      },
+      "sound": {
+        "id": "simplyswords:elemental_sword_holy_attack_01",
+        "pitch": 0.9
+      }
+    },
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "knockback": 1,
+          "spell_power_coefficient": 1.5
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "spell_engine:arcane_hit",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 10.0,
+          "min_speed": 0.2,
+          "max_speed": 0.6
+        },
+        {
+          "particle_id": "firework",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 20.0,
+          "min_speed": 0.2,
+          "max_speed": 0.4
+        }
+      ],
+      "sound": {
+        "id": "simplyswords:elemental_sword_holy_attack_01",
+        "pitch": 0.7
+      }
+    },
+    {
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "apply_mode": "ADD",
+          "duration": 1,
+          "amplifier": 0,
+          "effect_id": "prominent:darkening",
+          "show_particles": false
+        },
+        "apply_to_caster": true
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 6
+  }
+}

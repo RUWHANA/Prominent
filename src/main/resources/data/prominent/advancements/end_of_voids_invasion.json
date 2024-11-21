@@ -1,0 +1,22 @@
+{
+    "display": {
+      "icon": {
+        "item": "eldritch_end:xal"
+      },
+      "title": {
+        "translate": "advancements.end_of_voids_invasion.title"},
+      "description": {
+        "translate": "advancements.end_of_voids_invasion.desc"},
+      "hidden": true,
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "prominent:unlock_mythic_challenges",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible",
+        "conditions": {}
+      }
+    }
+}

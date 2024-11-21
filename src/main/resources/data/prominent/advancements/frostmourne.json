@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "prominent:frostmourne"
+      },
+      "title": {
+        "translate": "advancements.frostmourne.title"
+      },
+      "description": {
+        "translate": "advancements.frostmourne.desc"
+      },
+      "hidden": true,
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "prominent:molten_core",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "prominent:frostmourne"
+              ]
+            }
+          ]
+        }
+      }
+    }
+}

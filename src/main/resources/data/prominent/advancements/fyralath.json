@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "prominent:fyralath"
+      },
+      "title": {
+        "translate": "advancements.fyralath.title"
+      },
+      "description": {
+        "translate": "advancements.fyralath.desc"
+      },
+      "hidden": true,
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "prominent:molten_core",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "prominent:fyralath"
+              ]
+            }
+          ]
+        }
+      }
+    }
+}

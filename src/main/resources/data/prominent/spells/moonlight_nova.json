@@ -1,0 +1,137 @@
+{
+  "school": "ARCANE",
+  "range": 24,
+  "learn": {
+    "tier": 2
+  },
+  "cast": {
+    "duration": 0,
+    "animation": "spell_engine:two_handed_channeling",
+    "sound": {
+      "id": "spell_engine:generic_frost_casting",
+      "randomness": 0
+    },
+    "particles": [
+      {
+        "particle_id": "firework",
+        "shape": "PIPE",
+        "origin": "FEET",
+        "count": 1.0,
+        "min_speed": 0.05,
+        "max_speed": 0.1
+      }
+    ]
+  },
+  "release": {
+    "target": {
+      "type": "AREA",
+      "area": {
+        "vertical_range_multiplier": 0.5
+      }
+    },
+    "animation": "spell_engine:one_handed_area_release",
+    "particles": [
+      {
+        "particle_id": "firework",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 120.0,
+        "min_speed": 1.9,
+        "max_speed": 1.9
+      },
+      {
+        "particle_id": "firework",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 200.0,
+        "min_speed": 1.6,
+        "max_speed": 1.6
+      },
+      {
+        "particle_id": "firework",
+        "shape": "SPHERE",
+        "origin": "CENTER",
+        "count": 100.0,
+        "min_speed": 1.0,
+        "max_speed": 1.0
+      },
+      {
+        "particle_id": "firework",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 130.0,
+        "min_speed": 0.7,
+        "max_speed": 0.7
+      },
+      {
+        "particle_id": "spell_engine:arcane_hit",
+        "shape": "CIRCLE",
+        "origin": "CENTER",
+        "count": 120.0,
+        "min_speed": 0.4,
+        "max_speed": 0.32
+      }
+    ],
+    "sound": {
+      "id": "minecells:concierge.aura.release",
+      "pitch": 1.6
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "spell_power_coefficient": 0.7
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "spell_engine:arcane_hit",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 10,
+          "min_speed": 0.2,
+          "max_speed": 0.7
+        },
+        {
+          "particle_id": "firework",
+          "shape": "SPHERE",
+          "origin": "CENTER",
+          "count": 5,
+          "min_speed": 0.05,
+          "max_speed": 0.2
+        }
+      ]
+    },
+    {
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "apply_mode": "ADD",
+          "duration": 4,
+          "amplifier": 0,
+          "effect_id": "minecells:stunned",
+          "show_particles": false
+        },
+        "apply_to_caster": false
+      }
+    },
+    {
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "apply_mode": "ADD",
+          "duration": 1,
+          "amplifier": 0,
+          "effect_id": "prominent:moonlight_nova",
+          "show_particles": false
+        },
+        "apply_to_caster": true
+      }
+    }
+  ],
+  "cost": {
+    "cooldown_duration": 12
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "prominent:greater_mythical_essence"
+      },
+      "title": {
+        "translate": "advancements.void_mythic_15.title"
+      },
+      "description": {
+        "translate": "advancements.void_mythic_15.desc"
+      },
+      "hidden": true,
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "background": "ftblibrary:textures/gui/background_squares.png"
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible",
+        "conditions": {}
+      }
+    },
+    "rewards": {
+      "loot": [
+        "prominent:lesser_tier_1",
+        "prominent:lesser_tier_1",
+        "prominent:lesser_tier_1",
+        "prominent:lesser_tier_1"
+      ]
+    }
+}
