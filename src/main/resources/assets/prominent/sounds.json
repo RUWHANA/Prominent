@@ -1,0 +1,20 @@
+{
+    "music_disc.coniferus_forest": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "prominent:records/coniferus_forest",
+          "stream": true
+        }
+      ]
+    },
+    "music_disc.festivities": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "prominent:records/festivities",
+          "stream": true
+        }
+      ]
+    }
+}
