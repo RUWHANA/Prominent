@@ -1,0 +1,167 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "prominent:item/molten_core.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF933"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ability_plates/active.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF934"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/ability_plates/passive.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF937"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/mythic_bosses/mythic.png",
+            "ascent": 9, "height": 13,
+            "chars": ["\uF935"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/mythic_bosses/heroic.png",
+            "ascent": 9, "height": 13,
+            "chars": ["\uF936"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:item/void_hourglass.png",
+            "ascent": 9, "height": 13,
+            "chars": ["\uF938"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/realms.png",
+            "ascent": 34, "height": 39,
+            "chars": ["\uA735"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:gui/mmcn.png",
+            "ascent": 34, "height": 39,
+            "chars": ["\uA737"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:boss_bar/null_bossbar.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uA835"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/passive.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF940"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/active.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF941"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/fate.png",
+            "ascent": 9, "height": 12,
+            "chars": ["\uF942"]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/attack.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF943"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/attack_speed.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF944"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/defense.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF945"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/health.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF946"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/lethality.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF947"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/spell_haste.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF948"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/spell_critical.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF949"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/fire.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF950"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/arcane.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF951"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/frost.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF952"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/blood.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF953"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/unholy.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF954"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/archery.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF955"]
+        },
+        {
+            "type": "bitmap",
+            "file": "simplyskills:icons/prom_compat/rune_of_stars.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF956"]
+        },
+        {
+            "type": "bitmap",
+            "file": "prominent:icon/talent_tree/magic_type/holy.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\uF957"]
+        }
+    ]
+}
